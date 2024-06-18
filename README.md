@@ -1,5 +1,3 @@
-# clon-de-google
-
 ## Google Clone Project
 
 This project is a simple HTML and CSS implementation of a Google homepage clone, showcasing basic front-end development skills.
